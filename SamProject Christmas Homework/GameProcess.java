@@ -24,7 +24,7 @@ public class GameProcess {
 		for(int i=0;i<arrcount;i++)
 		   {
 			base[i]=i;
-			//System.out.println(base[i]);
+			
 		   }
 	}
     
@@ -44,9 +44,9 @@ public class GameProcess {
     	for(i=0;i<area;i++)
     	{
     		t=random.nextInt(arrcount);
-    		//System.out.println(t);
+    		
     		sysNum[i]=base[t];
-    		System.out.println(base[t]);
+    		System.out.println();
     		delarr(t);
     	}
     	
@@ -59,7 +59,7 @@ public class GameProcess {
     }
     void scanf()
     {
-    	System.out.println("The system number has created!"+"\n"+"Please enter "+area+" Numbers");
+    	System.out.println("The game has started!"+"\n"+"Please enter "+area+" Numbers");
         for(int i=0;i<area;i++)
         {
         	userNum[i]=reader.nextShort();
@@ -94,7 +94,7 @@ public class GameProcess {
     }
     void print()
     {
-    	System.out.println(" A "+right+" B "+midright);
+    	System.out.println("Right number in right position "+right+" Right number in wrong position "+midright);
     }
     
 }
