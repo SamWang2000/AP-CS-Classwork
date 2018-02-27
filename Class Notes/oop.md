@@ -7,3 +7,13 @@ Constructor: A method that is run when an object is instantiated, usually to ini
 Invoke: Any reference to a method by an executable statement.
 Getter methods: Often a setter is accompanied by a getter which returns the value of the private member variable.
 Setter methods: In computer science, a mutator method is a method used to control changes to a variable. They are also widely known as setter methods. 
+
+A fax machine class: Objects of this class enable you to send or receive faxes.
+
+An audio speaker class: Receiving the literal intermation transferred from user input and then transcribed it into sound.
+
+A computer mouse class: Receiving the information transcribbed from the relative motion of the mouse controlled by user
+
+A TV remote control class:
+
+A dice
