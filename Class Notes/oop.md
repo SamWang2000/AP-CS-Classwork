@@ -22,6 +22,4 @@ An audio speaker class: Receiving the literal intermation transferred from user 
 
 A computer mouse class: Receiving the information transcribbed from the relative motion of the mouse controlled by user
 
-A TV remote control class:
 
-A dice
