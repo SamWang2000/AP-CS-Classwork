@@ -1,7 +1,8 @@
 /*
 S3C7
 Sam Wang William Lu
-
+Mr.Daniel
+This is our group's winter holiday homework
  */
 package testyourvocabularysize;
 import java.util.Scanner;
