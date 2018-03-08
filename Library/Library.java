@@ -1,3 +1,6 @@
+  /**
+     * S3C7 Sam Wang Mr.Daniel Library borrowing system
+     */
 package library;
 
 import java.awt.print.Book;
